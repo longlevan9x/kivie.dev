@@ -1,4 +1,4 @@
-# Howz.Dev - Personal Website and Blog
+# kivie.Dev - Personal Website and Blog
 
 ![](https://img.shields.io/github/issues/howznguyen/howz.dev?color=0088ff)
 ![](https://img.shields.io/github/languages/top/howznguyen/howz.dev)
