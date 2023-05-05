@@ -1,4 +1,4 @@
-# kivie.Dev - Personal Website and Blog
+# kivie.dev - Personal Website and Blog
 
 ![](https://img.shields.io/github/issues/howznguyen/howz.dev?color=0088ff)
 ![](https://img.shields.io/github/languages/top/howznguyen/howz.dev)
@@ -22,8 +22,8 @@ To get started with this project, follow these steps:
 
 To get started with this project, you can clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/howznguyen/howz.dev.git
-cd howz.dev
+git clone https://github.com/longlevan9x/kivie.dev.git
+cd kivie.dev
 npm install
 ```
 
